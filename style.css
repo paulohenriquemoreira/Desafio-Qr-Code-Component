@@ -55,7 +55,7 @@ p{
    
     main{
        height: 1440px;
-       padding: 0;
+       padding: 10rem 15rem;
        margin: auto;
     }   
    
@@ -64,7 +64,7 @@ p{
         height: 95vh;
         border-radius: 25px;
         padding: 1.5rem 0.8rem;
-        
+
 
     }
 
