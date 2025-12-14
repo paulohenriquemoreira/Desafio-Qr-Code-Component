@@ -60,8 +60,8 @@ p{
     }   
    
     article{
-        width: 35%;
-        height: 115vh;
+        width: 375px;
+        height: 95vh;
         border-radius: 25px;
         padding: 1.5rem 0.8rem;
         
@@ -77,11 +77,11 @@ p{
     }
 
     h1{
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     p{
-        font-size: 1.4rem;
-        line-height: 2rem;
+        font-size: 1.15rem;
+        line-height: 1.5rem;
     }
 }
